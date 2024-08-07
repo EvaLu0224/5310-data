@@ -1,0 +1,2001 @@
+payment_id,payment_method
+1,PayPal
+2,Cash on Delivery
+3,Bank Transfer
+4,PayPal
+5,PayPal
+6,PayPal
+7,Cash on Delivery
+8,Cash on Delivery
+9,PayPal
+10,Bank Transfer
+11,PayPal
+12,Credit Card
+13,Credit Card
+14,Cash on Delivery
+15,Bank Transfer
+16,Credit Card
+17,Bank Transfer
+18,Cash on Delivery
+19,Cash on Delivery
+20,PayPal
+21,Credit Card
+22,Credit Card
+23,Cash on Delivery
+24,Credit Card
+25,PayPal
+26,Credit Card
+27,Bank Transfer
+28,PayPal
+29,PayPal
+30,Cash on Delivery
+31,PayPal
+32,Bank Transfer
+33,PayPal
+34,Bank Transfer
+35,PayPal
+36,Cash on Delivery
+37,Bank Transfer
+38,Bank Transfer
+39,PayPal
+40,Bank Transfer
+41,Bank Transfer
+42,PayPal
+43,PayPal
+44,Credit Card
+45,PayPal
+46,Bank Transfer
+47,Cash on Delivery
+48,Cash on Delivery
+49,Cash on Delivery
+50,Credit Card
+51,Bank Transfer
+52,Cash on Delivery
+53,Credit Card
+54,Credit Card
+55,Cash on Delivery
+56,Credit Card
+57,PayPal
+58,Bank Transfer
+59,Cash on Delivery
+60,Bank Transfer
+61,PayPal
+62,Cash on Delivery
+63,Cash on Delivery
+64,Cash on Delivery
+65,PayPal
+66,Bank Transfer
+67,Cash on Delivery
+68,Bank Transfer
+69,Bank Transfer
+70,Cash on Delivery
+71,Credit Card
+72,Bank Transfer
+73,PayPal
+74,Credit Card
+75,Bank Transfer
+76,Cash on Delivery
+77,Cash on Delivery
+78,PayPal
+79,Cash on Delivery
+80,Credit Card
+81,PayPal
+82,Credit Card
+83,Bank Transfer
+84,PayPal
+85,Cash on Delivery
+86,Cash on Delivery
+87,Cash on Delivery
+88,PayPal
+89,Bank Transfer
+90,Credit Card
+91,Bank Transfer
+92,Bank Transfer
+93,Credit Card
+94,Credit Card
+95,PayPal
+96,Bank Transfer
+97,Cash on Delivery
+98,Credit Card
+99,Bank Transfer
+100,Cash on Delivery
+101,Credit Card
+102,PayPal
+103,Credit Card
+104,Cash on Delivery
+105,Cash on Delivery
+106,PayPal
+107,Credit Card
+108,PayPal
+109,Cash on Delivery
+110,Cash on Delivery
+111,Cash on Delivery
+112,Cash on Delivery
+113,Bank Transfer
+114,Bank Transfer
+115,Bank Transfer
+116,Credit Card
+117,PayPal
+118,Credit Card
+119,Credit Card
+120,Cash on Delivery
+121,Cash on Delivery
+122,PayPal
+123,Cash on Delivery
+124,Cash on Delivery
+125,Cash on Delivery
+126,Credit Card
+127,Credit Card
+128,Cash on Delivery
+129,Bank Transfer
+130,Cash on Delivery
+131,Bank Transfer
+132,PayPal
+133,PayPal
+134,Bank Transfer
+135,Cash on Delivery
+136,Credit Card
+137,Cash on Delivery
+138,Cash on Delivery
+139,PayPal
+140,PayPal
+141,Cash on Delivery
+142,Cash on Delivery
+143,Bank Transfer
+144,Credit Card
+145,Bank Transfer
+146,Bank Transfer
+147,Cash on Delivery
+148,Cash on Delivery
+149,Bank Transfer
+150,Credit Card
+151,PayPal
+152,Credit Card
+153,Cash on Delivery
+154,PayPal
+155,PayPal
+156,Cash on Delivery
+157,Credit Card
+158,PayPal
+159,Credit Card
+160,Bank Transfer
+161,Credit Card
+162,Cash on Delivery
+163,Credit Card
+164,Cash on Delivery
+165,PayPal
+166,PayPal
+167,PayPal
+168,Cash on Delivery
+169,Credit Card
+170,Credit Card
+171,Credit Card
+172,Credit Card
+173,Cash on Delivery
+174,Credit Card
+175,Cash on Delivery
+176,Bank Transfer
+177,Cash on Delivery
+178,Credit Card
+179,PayPal
+180,PayPal
+181,Bank Transfer
+182,Cash on Delivery
+183,Bank Transfer
+184,Bank Transfer
+185,Cash on Delivery
+186,Credit Card
+187,Bank Transfer
+188,Cash on Delivery
+189,Credit Card
+190,Bank Transfer
+191,PayPal
+192,Bank Transfer
+193,Credit Card
+194,Credit Card
+195,PayPal
+196,Bank Transfer
+197,PayPal
+198,PayPal
+199,Bank Transfer
+200,PayPal
+201,Bank Transfer
+202,Bank Transfer
+203,Cash on Delivery
+204,Bank Transfer
+205,Credit Card
+206,Bank Transfer
+207,Credit Card
+208,Credit Card
+209,Credit Card
+210,Credit Card
+211,Credit Card
+212,Bank Transfer
+213,PayPal
+214,Credit Card
+215,PayPal
+216,Cash on Delivery
+217,Bank Transfer
+218,Bank Transfer
+219,Credit Card
+220,PayPal
+221,Bank Transfer
+222,Credit Card
+223,Cash on Delivery
+224,PayPal
+225,Credit Card
+226,Cash on Delivery
+227,Cash on Delivery
+228,Credit Card
+229,Bank Transfer
+230,Bank Transfer
+231,Cash on Delivery
+232,PayPal
+233,Cash on Delivery
+234,Bank Transfer
+235,PayPal
+236,Bank Transfer
+237,Credit Card
+238,Cash on Delivery
+239,PayPal
+240,Cash on Delivery
+241,PayPal
+242,PayPal
+243,PayPal
+244,Credit Card
+245,PayPal
+246,Bank Transfer
+247,Credit Card
+248,Bank Transfer
+249,Cash on Delivery
+250,Cash on Delivery
+251,Bank Transfer
+252,PayPal
+253,Credit Card
+254,Credit Card
+255,Credit Card
+256,Bank Transfer
+257,Bank Transfer
+258,PayPal
+259,Cash on Delivery
+260,Bank Transfer
+261,Credit Card
+262,Bank Transfer
+263,Credit Card
+264,Cash on Delivery
+265,Credit Card
+266,Cash on Delivery
+267,Credit Card
+268,Bank Transfer
+269,Bank Transfer
+270,Bank Transfer
+271,Bank Transfer
+272,PayPal
+273,PayPal
+274,PayPal
+275,PayPal
+276,Bank Transfer
+277,Credit Card
+278,Bank Transfer
+279,Bank Transfer
+280,Bank Transfer
+281,Cash on Delivery
+282,Cash on Delivery
+283,Credit Card
+284,Credit Card
+285,Credit Card
+286,PayPal
+287,Credit Card
+288,PayPal
+289,Cash on Delivery
+290,PayPal
+291,PayPal
+292,Credit Card
+293,Bank Transfer
+294,Cash on Delivery
+295,PayPal
+296,PayPal
+297,Credit Card
+298,PayPal
+299,Bank Transfer
+300,Credit Card
+301,PayPal
+302,Cash on Delivery
+303,Bank Transfer
+304,PayPal
+305,Credit Card
+306,Bank Transfer
+307,Cash on Delivery
+308,Cash on Delivery
+309,Cash on Delivery
+310,Credit Card
+311,Credit Card
+312,Cash on Delivery
+313,Cash on Delivery
+314,Cash on Delivery
+315,Cash on Delivery
+316,Cash on Delivery
+317,Cash on Delivery
+318,Credit Card
+319,PayPal
+320,Credit Card
+321,PayPal
+322,Credit Card
+323,Cash on Delivery
+324,Bank Transfer
+325,Cash on Delivery
+326,Bank Transfer
+327,Bank Transfer
+328,PayPal
+329,Credit Card
+330,Bank Transfer
+331,PayPal
+332,Cash on Delivery
+333,Credit Card
+334,Cash on Delivery
+335,Credit Card
+336,PayPal
+337,Cash on Delivery
+338,Bank Transfer
+339,Credit Card
+340,Cash on Delivery
+341,Bank Transfer
+342,Credit Card
+343,PayPal
+344,PayPal
+345,Bank Transfer
+346,PayPal
+347,PayPal
+348,Credit Card
+349,Bank Transfer
+350,Cash on Delivery
+351,PayPal
+352,Cash on Delivery
+353,Bank Transfer
+354,Bank Transfer
+355,PayPal
+356,Credit Card
+357,Credit Card
+358,PayPal
+359,PayPal
+360,Cash on Delivery
+361,Credit Card
+362,Credit Card
+363,PayPal
+364,Cash on Delivery
+365,Bank Transfer
+366,PayPal
+367,Cash on Delivery
+368,Credit Card
+369,Cash on Delivery
+370,Cash on Delivery
+371,Cash on Delivery
+372,Cash on Delivery
+373,Bank Transfer
+374,Bank Transfer
+375,Bank Transfer
+376,PayPal
+377,Bank Transfer
+378,PayPal
+379,Cash on Delivery
+380,Bank Transfer
+381,Bank Transfer
+382,PayPal
+383,Bank Transfer
+384,Credit Card
+385,PayPal
+386,Credit Card
+387,Cash on Delivery
+388,PayPal
+389,Cash on Delivery
+390,PayPal
+391,Credit Card
+392,PayPal
+393,Credit Card
+394,PayPal
+395,PayPal
+396,Credit Card
+397,Cash on Delivery
+398,Credit Card
+399,PayPal
+400,Bank Transfer
+401,Cash on Delivery
+402,Bank Transfer
+403,Credit Card
+404,PayPal
+405,Bank Transfer
+406,Cash on Delivery
+407,Credit Card
+408,Credit Card
+409,Bank Transfer
+410,PayPal
+411,Cash on Delivery
+412,Bank Transfer
+413,Credit Card
+414,Bank Transfer
+415,PayPal
+416,PayPal
+417,Cash on Delivery
+418,Cash on Delivery
+419,Credit Card
+420,Cash on Delivery
+421,Cash on Delivery
+422,PayPal
+423,Credit Card
+424,Credit Card
+425,Bank Transfer
+426,Credit Card
+427,Cash on Delivery
+428,Bank Transfer
+429,Credit Card
+430,Credit Card
+431,Bank Transfer
+432,Bank Transfer
+433,Bank Transfer
+434,Bank Transfer
+435,PayPal
+436,PayPal
+437,PayPal
+438,Cash on Delivery
+439,Bank Transfer
+440,Credit Card
+441,Bank Transfer
+442,Cash on Delivery
+443,Credit Card
+444,PayPal
+445,Cash on Delivery
+446,Bank Transfer
+447,Bank Transfer
+448,Bank Transfer
+449,Bank Transfer
+450,Credit Card
+451,Credit Card
+452,Credit Card
+453,Cash on Delivery
+454,Cash on Delivery
+455,Bank Transfer
+456,Cash on Delivery
+457,Credit Card
+458,Credit Card
+459,Cash on Delivery
+460,Cash on Delivery
+461,PayPal
+462,Cash on Delivery
+463,PayPal
+464,Cash on Delivery
+465,Credit Card
+466,PayPal
+467,Bank Transfer
+468,PayPal
+469,Bank Transfer
+470,Cash on Delivery
+471,Cash on Delivery
+472,Credit Card
+473,PayPal
+474,Credit Card
+475,PayPal
+476,Cash on Delivery
+477,Bank Transfer
+478,Cash on Delivery
+479,Credit Card
+480,Cash on Delivery
+481,Bank Transfer
+482,PayPal
+483,PayPal
+484,Bank Transfer
+485,Bank Transfer
+486,PayPal
+487,PayPal
+488,Bank Transfer
+489,Cash on Delivery
+490,PayPal
+491,Bank Transfer
+492,Bank Transfer
+493,PayPal
+494,Credit Card
+495,Credit Card
+496,Credit Card
+497,Bank Transfer
+498,Bank Transfer
+499,Credit Card
+500,PayPal
+501,Credit Card
+502,Bank Transfer
+503,Bank Transfer
+504,Bank Transfer
+505,PayPal
+506,Cash on Delivery
+507,Credit Card
+508,PayPal
+509,Cash on Delivery
+510,Cash on Delivery
+511,Credit Card
+512,Bank Transfer
+513,Cash on Delivery
+514,Cash on Delivery
+515,Cash on Delivery
+516,Bank Transfer
+517,Cash on Delivery
+518,PayPal
+519,Bank Transfer
+520,Cash on Delivery
+521,Credit Card
+522,Bank Transfer
+523,PayPal
+524,PayPal
+525,Bank Transfer
+526,Credit Card
+527,PayPal
+528,PayPal
+529,Credit Card
+530,Cash on Delivery
+531,Cash on Delivery
+532,Cash on Delivery
+533,Cash on Delivery
+534,Credit Card
+535,PayPal
+536,Bank Transfer
+537,PayPal
+538,Cash on Delivery
+539,PayPal
+540,Bank Transfer
+541,Bank Transfer
+542,Cash on Delivery
+543,Bank Transfer
+544,Bank Transfer
+545,PayPal
+546,Bank Transfer
+547,Bank Transfer
+548,PayPal
+549,Credit Card
+550,Cash on Delivery
+551,Credit Card
+552,Credit Card
+553,PayPal
+554,Credit Card
+555,Credit Card
+556,Credit Card
+557,PayPal
+558,Cash on Delivery
+559,PayPal
+560,Cash on Delivery
+561,Credit Card
+562,Bank Transfer
+563,Credit Card
+564,Credit Card
+565,Cash on Delivery
+566,Cash on Delivery
+567,PayPal
+568,Credit Card
+569,Bank Transfer
+570,PayPal
+571,Credit Card
+572,Credit Card
+573,Bank Transfer
+574,Cash on Delivery
+575,Credit Card
+576,Cash on Delivery
+577,PayPal
+578,PayPal
+579,Credit Card
+580,Cash on Delivery
+581,Bank Transfer
+582,Credit Card
+583,Credit Card
+584,Bank Transfer
+585,Bank Transfer
+586,Credit Card
+587,PayPal
+588,Cash on Delivery
+589,Cash on Delivery
+590,Bank Transfer
+591,Bank Transfer
+592,PayPal
+593,Bank Transfer
+594,Bank Transfer
+595,PayPal
+596,PayPal
+597,Cash on Delivery
+598,Bank Transfer
+599,Bank Transfer
+600,Bank Transfer
+601,Bank Transfer
+602,Credit Card
+603,Cash on Delivery
+604,PayPal
+605,PayPal
+606,PayPal
+607,Cash on Delivery
+608,Cash on Delivery
+609,Bank Transfer
+610,Credit Card
+611,Bank Transfer
+612,Bank Transfer
+613,Cash on Delivery
+614,Cash on Delivery
+615,Credit Card
+616,Cash on Delivery
+617,Cash on Delivery
+618,Cash on Delivery
+619,Cash on Delivery
+620,Bank Transfer
+621,PayPal
+622,Credit Card
+623,Bank Transfer
+624,Cash on Delivery
+625,PayPal
+626,Bank Transfer
+627,Bank Transfer
+628,Cash on Delivery
+629,PayPal
+630,PayPal
+631,Cash on Delivery
+632,Bank Transfer
+633,PayPal
+634,PayPal
+635,PayPal
+636,Cash on Delivery
+637,Cash on Delivery
+638,Bank Transfer
+639,Cash on Delivery
+640,Cash on Delivery
+641,PayPal
+642,Cash on Delivery
+643,Bank Transfer
+644,PayPal
+645,Bank Transfer
+646,Bank Transfer
+647,Bank Transfer
+648,Cash on Delivery
+649,Cash on Delivery
+650,Credit Card
+651,Bank Transfer
+652,Bank Transfer
+653,PayPal
+654,Credit Card
+655,Cash on Delivery
+656,Credit Card
+657,Cash on Delivery
+658,Credit Card
+659,Credit Card
+660,PayPal
+661,Bank Transfer
+662,PayPal
+663,Bank Transfer
+664,Bank Transfer
+665,Credit Card
+666,Bank Transfer
+667,PayPal
+668,PayPal
+669,PayPal
+670,PayPal
+671,PayPal
+672,Credit Card
+673,Bank Transfer
+674,Bank Transfer
+675,PayPal
+676,PayPal
+677,Cash on Delivery
+678,Cash on Delivery
+679,Bank Transfer
+680,Cash on Delivery
+681,Bank Transfer
+682,Credit Card
+683,Credit Card
+684,Cash on Delivery
+685,PayPal
+686,Credit Card
+687,Bank Transfer
+688,Credit Card
+689,PayPal
+690,Cash on Delivery
+691,Cash on Delivery
+692,Cash on Delivery
+693,Credit Card
+694,PayPal
+695,Bank Transfer
+696,PayPal
+697,Credit Card
+698,Bank Transfer
+699,Bank Transfer
+700,PayPal
+701,Bank Transfer
+702,Bank Transfer
+703,PayPal
+704,PayPal
+705,Bank Transfer
+706,Bank Transfer
+707,PayPal
+708,PayPal
+709,Cash on Delivery
+710,Cash on Delivery
+711,Credit Card
+712,PayPal
+713,Cash on Delivery
+714,Credit Card
+715,Credit Card
+716,Bank Transfer
+717,PayPal
+718,PayPal
+719,Bank Transfer
+720,PayPal
+721,Cash on Delivery
+722,Bank Transfer
+723,Credit Card
+724,Cash on Delivery
+725,PayPal
+726,Bank Transfer
+727,PayPal
+728,Bank Transfer
+729,Credit Card
+730,Bank Transfer
+731,Cash on Delivery
+732,Credit Card
+733,Credit Card
+734,PayPal
+735,Bank Transfer
+736,Credit Card
+737,Credit Card
+738,Bank Transfer
+739,Cash on Delivery
+740,Cash on Delivery
+741,Credit Card
+742,PayPal
+743,PayPal
+744,Bank Transfer
+745,Cash on Delivery
+746,Bank Transfer
+747,Bank Transfer
+748,Bank Transfer
+749,Bank Transfer
+750,Cash on Delivery
+751,Cash on Delivery
+752,Bank Transfer
+753,Bank Transfer
+754,PayPal
+755,Credit Card
+756,Credit Card
+757,Credit Card
+758,Cash on Delivery
+759,PayPal
+760,Cash on Delivery
+761,Credit Card
+762,PayPal
+763,Cash on Delivery
+764,Cash on Delivery
+765,Bank Transfer
+766,Cash on Delivery
+767,Cash on Delivery
+768,Credit Card
+769,Bank Transfer
+770,Credit Card
+771,Bank Transfer
+772,Cash on Delivery
+773,PayPal
+774,Credit Card
+775,PayPal
+776,Credit Card
+777,Cash on Delivery
+778,Credit Card
+779,PayPal
+780,Cash on Delivery
+781,PayPal
+782,PayPal
+783,Credit Card
+784,Credit Card
+785,Credit Card
+786,PayPal
+787,Bank Transfer
+788,Cash on Delivery
+789,Cash on Delivery
+790,Cash on Delivery
+791,Bank Transfer
+792,Bank Transfer
+793,Bank Transfer
+794,Bank Transfer
+795,PayPal
+796,Credit Card
+797,Bank Transfer
+798,PayPal
+799,Cash on Delivery
+800,Credit Card
+801,Cash on Delivery
+802,Bank Transfer
+803,PayPal
+804,PayPal
+805,Cash on Delivery
+806,Bank Transfer
+807,Bank Transfer
+808,PayPal
+809,Bank Transfer
+810,Bank Transfer
+811,PayPal
+812,Credit Card
+813,Credit Card
+814,Credit Card
+815,Cash on Delivery
+816,Credit Card
+817,Bank Transfer
+818,Bank Transfer
+819,PayPal
+820,Cash on Delivery
+821,Cash on Delivery
+822,Cash on Delivery
+823,Cash on Delivery
+824,Cash on Delivery
+825,Cash on Delivery
+826,Credit Card
+827,Credit Card
+828,PayPal
+829,Bank Transfer
+830,Cash on Delivery
+831,Bank Transfer
+832,PayPal
+833,PayPal
+834,PayPal
+835,PayPal
+836,Credit Card
+837,Cash on Delivery
+838,Cash on Delivery
+839,Cash on Delivery
+840,Bank Transfer
+841,Bank Transfer
+842,Credit Card
+843,PayPal
+844,Credit Card
+845,Bank Transfer
+846,PayPal
+847,Cash on Delivery
+848,Bank Transfer
+849,Credit Card
+850,Bank Transfer
+851,Credit Card
+852,PayPal
+853,PayPal
+854,Cash on Delivery
+855,PayPal
+856,Bank Transfer
+857,Credit Card
+858,Bank Transfer
+859,Credit Card
+860,Bank Transfer
+861,Bank Transfer
+862,PayPal
+863,Cash on Delivery
+864,PayPal
+865,Credit Card
+866,Credit Card
+867,PayPal
+868,PayPal
+869,Credit Card
+870,Cash on Delivery
+871,Bank Transfer
+872,Credit Card
+873,PayPal
+874,Credit Card
+875,Cash on Delivery
+876,Cash on Delivery
+877,Bank Transfer
+878,Cash on Delivery
+879,Bank Transfer
+880,Bank Transfer
+881,Cash on Delivery
+882,Bank Transfer
+883,Cash on Delivery
+884,Bank Transfer
+885,PayPal
+886,PayPal
+887,PayPal
+888,Credit Card
+889,Bank Transfer
+890,Cash on Delivery
+891,PayPal
+892,Bank Transfer
+893,Credit Card
+894,Cash on Delivery
+895,Credit Card
+896,PayPal
+897,Cash on Delivery
+898,Bank Transfer
+899,Cash on Delivery
+900,PayPal
+901,Cash on Delivery
+902,PayPal
+903,Bank Transfer
+904,PayPal
+905,Cash on Delivery
+906,Bank Transfer
+907,Credit Card
+908,PayPal
+909,PayPal
+910,PayPal
+911,PayPal
+912,Credit Card
+913,PayPal
+914,Cash on Delivery
+915,Credit Card
+916,Cash on Delivery
+917,Credit Card
+918,Cash on Delivery
+919,PayPal
+920,Cash on Delivery
+921,Bank Transfer
+922,Credit Card
+923,Cash on Delivery
+924,PayPal
+925,Bank Transfer
+926,Bank Transfer
+927,Cash on Delivery
+928,Bank Transfer
+929,PayPal
+930,Bank Transfer
+931,Credit Card
+932,Bank Transfer
+933,Cash on Delivery
+934,Bank Transfer
+935,Credit Card
+936,Cash on Delivery
+937,Cash on Delivery
+938,PayPal
+939,Bank Transfer
+940,Bank Transfer
+941,Cash on Delivery
+942,Bank Transfer
+943,Cash on Delivery
+944,Cash on Delivery
+945,PayPal
+946,Bank Transfer
+947,Credit Card
+948,Cash on Delivery
+949,Cash on Delivery
+950,Bank Transfer
+951,PayPal
+952,Bank Transfer
+953,Cash on Delivery
+954,Bank Transfer
+955,Cash on Delivery
+956,Cash on Delivery
+957,Cash on Delivery
+958,Bank Transfer
+959,PayPal
+960,Cash on Delivery
+961,PayPal
+962,Cash on Delivery
+963,Cash on Delivery
+964,PayPal
+965,Credit Card
+966,Credit Card
+967,Cash on Delivery
+968,Cash on Delivery
+969,PayPal
+970,PayPal
+971,Cash on Delivery
+972,Credit Card
+973,Cash on Delivery
+974,PayPal
+975,Bank Transfer
+976,Credit Card
+977,Bank Transfer
+978,Bank Transfer
+979,Credit Card
+980,PayPal
+981,Cash on Delivery
+982,PayPal
+983,Cash on Delivery
+984,Credit Card
+985,Cash on Delivery
+986,Credit Card
+987,Cash on Delivery
+988,Credit Card
+989,Bank Transfer
+990,Credit Card
+991,Credit Card
+992,Credit Card
+993,Credit Card
+994,Credit Card
+995,PayPal
+996,PayPal
+997,Cash on Delivery
+998,Cash on Delivery
+999,PayPal
+1000,Credit Card
+1001,PayPal
+1002,Cash on Delivery
+1003,Bank Transfer
+1004,Bank Transfer
+1005,Credit Card
+1006,PayPal
+1007,Cash on Delivery
+1008,Bank Transfer
+1009,Bank Transfer
+1010,Bank Transfer
+1011,PayPal
+1012,PayPal
+1013,Cash on Delivery
+1014,Bank Transfer
+1015,Credit Card
+1016,Credit Card
+1017,Bank Transfer
+1018,Bank Transfer
+1019,Bank Transfer
+1020,Credit Card
+1021,PayPal
+1022,Credit Card
+1023,Bank Transfer
+1024,Bank Transfer
+1025,Cash on Delivery
+1026,Cash on Delivery
+1027,Bank Transfer
+1028,Cash on Delivery
+1029,Cash on Delivery
+1030,Bank Transfer
+1031,Cash on Delivery
+1032,Cash on Delivery
+1033,PayPal
+1034,Cash on Delivery
+1035,Credit Card
+1036,Bank Transfer
+1037,Credit Card
+1038,PayPal
+1039,Bank Transfer
+1040,PayPal
+1041,Credit Card
+1042,Bank Transfer
+1043,Credit Card
+1044,Bank Transfer
+1045,Credit Card
+1046,PayPal
+1047,PayPal
+1048,PayPal
+1049,Bank Transfer
+1050,PayPal
+1051,PayPal
+1052,PayPal
+1053,Credit Card
+1054,Bank Transfer
+1055,Bank Transfer
+1056,PayPal
+1057,PayPal
+1058,PayPal
+1059,Credit Card
+1060,Bank Transfer
+1061,Bank Transfer
+1062,PayPal
+1063,Credit Card
+1064,Cash on Delivery
+1065,Credit Card
+1066,PayPal
+1067,Bank Transfer
+1068,Bank Transfer
+1069,PayPal
+1070,Credit Card
+1071,Credit Card
+1072,Bank Transfer
+1073,Bank Transfer
+1074,Cash on Delivery
+1075,Bank Transfer
+1076,Bank Transfer
+1077,PayPal
+1078,Cash on Delivery
+1079,Cash on Delivery
+1080,PayPal
+1081,Credit Card
+1082,Credit Card
+1083,Cash on Delivery
+1084,PayPal
+1085,Credit Card
+1086,Bank Transfer
+1087,Bank Transfer
+1088,Credit Card
+1089,Cash on Delivery
+1090,Cash on Delivery
+1091,Bank Transfer
+1092,Cash on Delivery
+1093,PayPal
+1094,Bank Transfer
+1095,Bank Transfer
+1096,PayPal
+1097,Credit Card
+1098,PayPal
+1099,Cash on Delivery
+1100,Bank Transfer
+1101,Bank Transfer
+1102,Credit Card
+1103,Credit Card
+1104,PayPal
+1105,Credit Card
+1106,PayPal
+1107,Bank Transfer
+1108,Bank Transfer
+1109,Bank Transfer
+1110,Bank Transfer
+1111,Bank Transfer
+1112,Bank Transfer
+1113,Bank Transfer
+1114,Credit Card
+1115,Bank Transfer
+1116,Credit Card
+1117,Cash on Delivery
+1118,PayPal
+1119,Cash on Delivery
+1120,Bank Transfer
+1121,PayPal
+1122,Cash on Delivery
+1123,Credit Card
+1124,PayPal
+1125,Bank Transfer
+1126,Bank Transfer
+1127,Bank Transfer
+1128,PayPal
+1129,Cash on Delivery
+1130,Bank Transfer
+1131,PayPal
+1132,Cash on Delivery
+1133,Bank Transfer
+1134,Bank Transfer
+1135,Credit Card
+1136,PayPal
+1137,Credit Card
+1138,Cash on Delivery
+1139,Bank Transfer
+1140,Cash on Delivery
+1141,Cash on Delivery
+1142,Credit Card
+1143,Cash on Delivery
+1144,PayPal
+1145,Cash on Delivery
+1146,Credit Card
+1147,Bank Transfer
+1148,PayPal
+1149,Cash on Delivery
+1150,Cash on Delivery
+1151,PayPal
+1152,Bank Transfer
+1153,Bank Transfer
+1154,Credit Card
+1155,PayPal
+1156,PayPal
+1157,Credit Card
+1158,PayPal
+1159,Cash on Delivery
+1160,Credit Card
+1161,PayPal
+1162,Credit Card
+1163,Credit Card
+1164,Cash on Delivery
+1165,Bank Transfer
+1166,Bank Transfer
+1167,Cash on Delivery
+1168,Bank Transfer
+1169,Bank Transfer
+1170,PayPal
+1171,Bank Transfer
+1172,Bank Transfer
+1173,Credit Card
+1174,Bank Transfer
+1175,Cash on Delivery
+1176,PayPal
+1177,Cash on Delivery
+1178,Credit Card
+1179,PayPal
+1180,Credit Card
+1181,Credit Card
+1182,PayPal
+1183,PayPal
+1184,Bank Transfer
+1185,Credit Card
+1186,Bank Transfer
+1187,PayPal
+1188,Cash on Delivery
+1189,PayPal
+1190,PayPal
+1191,Credit Card
+1192,Credit Card
+1193,Bank Transfer
+1194,Cash on Delivery
+1195,Bank Transfer
+1196,Credit Card
+1197,Bank Transfer
+1198,Bank Transfer
+1199,Bank Transfer
+1200,Credit Card
+1201,Bank Transfer
+1202,Bank Transfer
+1203,Cash on Delivery
+1204,Credit Card
+1205,Cash on Delivery
+1206,Cash on Delivery
+1207,PayPal
+1208,PayPal
+1209,PayPal
+1210,PayPal
+1211,Credit Card
+1212,Credit Card
+1213,Cash on Delivery
+1214,Cash on Delivery
+1215,PayPal
+1216,PayPal
+1217,Cash on Delivery
+1218,Credit Card
+1219,Bank Transfer
+1220,Bank Transfer
+1221,Bank Transfer
+1222,Bank Transfer
+1223,Cash on Delivery
+1224,Bank Transfer
+1225,Credit Card
+1226,Cash on Delivery
+1227,Bank Transfer
+1228,Credit Card
+1229,Cash on Delivery
+1230,PayPal
+1231,Credit Card
+1232,Cash on Delivery
+1233,Bank Transfer
+1234,Credit Card
+1235,Bank Transfer
+1236,Cash on Delivery
+1237,Bank Transfer
+1238,PayPal
+1239,Bank Transfer
+1240,PayPal
+1241,Cash on Delivery
+1242,Credit Card
+1243,PayPal
+1244,PayPal
+1245,Cash on Delivery
+1246,Cash on Delivery
+1247,Cash on Delivery
+1248,Credit Card
+1249,Credit Card
+1250,Credit Card
+1251,Bank Transfer
+1252,PayPal
+1253,Credit Card
+1254,Cash on Delivery
+1255,Cash on Delivery
+1256,Credit Card
+1257,Bank Transfer
+1258,Credit Card
+1259,Bank Transfer
+1260,Bank Transfer
+1261,Bank Transfer
+1262,Bank Transfer
+1263,Credit Card
+1264,PayPal
+1265,Bank Transfer
+1266,PayPal
+1267,PayPal
+1268,Bank Transfer
+1269,PayPal
+1270,Credit Card
+1271,Credit Card
+1272,PayPal
+1273,Bank Transfer
+1274,Credit Card
+1275,Credit Card
+1276,Credit Card
+1277,Credit Card
+1278,Bank Transfer
+1279,Bank Transfer
+1280,Credit Card
+1281,PayPal
+1282,Cash on Delivery
+1283,PayPal
+1284,Cash on Delivery
+1285,PayPal
+1286,PayPal
+1287,PayPal
+1288,Bank Transfer
+1289,Credit Card
+1290,Cash on Delivery
+1291,Bank Transfer
+1292,PayPal
+1293,Bank Transfer
+1294,PayPal
+1295,Bank Transfer
+1296,Credit Card
+1297,PayPal
+1298,Credit Card
+1299,Credit Card
+1300,PayPal
+1301,Cash on Delivery
+1302,PayPal
+1303,Credit Card
+1304,Cash on Delivery
+1305,Bank Transfer
+1306,Bank Transfer
+1307,Cash on Delivery
+1308,Credit Card
+1309,Credit Card
+1310,Cash on Delivery
+1311,Cash on Delivery
+1312,Credit Card
+1313,PayPal
+1314,PayPal
+1315,Cash on Delivery
+1316,PayPal
+1317,Credit Card
+1318,Bank Transfer
+1319,Credit Card
+1320,PayPal
+1321,PayPal
+1322,Cash on Delivery
+1323,Cash on Delivery
+1324,Cash on Delivery
+1325,Credit Card
+1326,Bank Transfer
+1327,Cash on Delivery
+1328,PayPal
+1329,Bank Transfer
+1330,Bank Transfer
+1331,PayPal
+1332,PayPal
+1333,Cash on Delivery
+1334,Credit Card
+1335,Credit Card
+1336,Credit Card
+1337,Cash on Delivery
+1338,Bank Transfer
+1339,Credit Card
+1340,Cash on Delivery
+1341,Bank Transfer
+1342,Cash on Delivery
+1343,Bank Transfer
+1344,Cash on Delivery
+1345,Cash on Delivery
+1346,Bank Transfer
+1347,Cash on Delivery
+1348,Bank Transfer
+1349,Bank Transfer
+1350,PayPal
+1351,Bank Transfer
+1352,Bank Transfer
+1353,PayPal
+1354,Credit Card
+1355,Cash on Delivery
+1356,Credit Card
+1357,Cash on Delivery
+1358,Cash on Delivery
+1359,PayPal
+1360,Bank Transfer
+1361,PayPal
+1362,Credit Card
+1363,Cash on Delivery
+1364,Cash on Delivery
+1365,Cash on Delivery
+1366,Credit Card
+1367,PayPal
+1368,Cash on Delivery
+1369,PayPal
+1370,Cash on Delivery
+1371,PayPal
+1372,Bank Transfer
+1373,Bank Transfer
+1374,Credit Card
+1375,PayPal
+1376,Credit Card
+1377,Credit Card
+1378,Cash on Delivery
+1379,Credit Card
+1380,Credit Card
+1381,Cash on Delivery
+1382,Credit Card
+1383,Cash on Delivery
+1384,Bank Transfer
+1385,Bank Transfer
+1386,Credit Card
+1387,Bank Transfer
+1388,Bank Transfer
+1389,PayPal
+1390,Cash on Delivery
+1391,Credit Card
+1392,Bank Transfer
+1393,PayPal
+1394,PayPal
+1395,PayPal
+1396,Cash on Delivery
+1397,PayPal
+1398,Bank Transfer
+1399,Bank Transfer
+1400,Credit Card
+1401,Bank Transfer
+1402,Credit Card
+1403,PayPal
+1404,Bank Transfer
+1405,Credit Card
+1406,Credit Card
+1407,PayPal
+1408,Credit Card
+1409,PayPal
+1410,Credit Card
+1411,Bank Transfer
+1412,Bank Transfer
+1413,PayPal
+1414,Credit Card
+1415,PayPal
+1416,PayPal
+1417,Bank Transfer
+1418,PayPal
+1419,PayPal
+1420,PayPal
+1421,Bank Transfer
+1422,Bank Transfer
+1423,Cash on Delivery
+1424,Cash on Delivery
+1425,Cash on Delivery
+1426,PayPal
+1427,PayPal
+1428,Credit Card
+1429,Credit Card
+1430,PayPal
+1431,Bank Transfer
+1432,Cash on Delivery
+1433,Cash on Delivery
+1434,Cash on Delivery
+1435,PayPal
+1436,PayPal
+1437,PayPal
+1438,Bank Transfer
+1439,Bank Transfer
+1440,Cash on Delivery
+1441,Credit Card
+1442,PayPal
+1443,PayPal
+1444,PayPal
+1445,PayPal
+1446,Bank Transfer
+1447,Credit Card
+1448,Credit Card
+1449,PayPal
+1450,Bank Transfer
+1451,PayPal
+1452,Bank Transfer
+1453,Cash on Delivery
+1454,Cash on Delivery
+1455,Credit Card
+1456,PayPal
+1457,Bank Transfer
+1458,PayPal
+1459,Cash on Delivery
+1460,PayPal
+1461,PayPal
+1462,Credit Card
+1463,Bank Transfer
+1464,Cash on Delivery
+1465,Credit Card
+1466,Bank Transfer
+1467,Cash on Delivery
+1468,PayPal
+1469,Cash on Delivery
+1470,PayPal
+1471,Cash on Delivery
+1472,PayPal
+1473,Cash on Delivery
+1474,PayPal
+1475,PayPal
+1476,PayPal
+1477,Cash on Delivery
+1478,PayPal
+1479,PayPal
+1480,PayPal
+1481,Cash on Delivery
+1482,PayPal
+1483,Credit Card
+1484,Bank Transfer
+1485,Credit Card
+1486,PayPal
+1487,PayPal
+1488,Cash on Delivery
+1489,PayPal
+1490,Cash on Delivery
+1491,PayPal
+1492,Bank Transfer
+1493,Bank Transfer
+1494,Cash on Delivery
+1495,PayPal
+1496,Bank Transfer
+1497,Credit Card
+1498,PayPal
+1499,Credit Card
+1500,Credit Card
+1501,PayPal
+1502,PayPal
+1503,Cash on Delivery
+1504,PayPal
+1505,PayPal
+1506,Bank Transfer
+1507,PayPal
+1508,PayPal
+1509,Cash on Delivery
+1510,Credit Card
+1511,Cash on Delivery
+1512,PayPal
+1513,Credit Card
+1514,PayPal
+1515,Credit Card
+1516,PayPal
+1517,PayPal
+1518,Cash on Delivery
+1519,Cash on Delivery
+1520,Cash on Delivery
+1521,PayPal
+1522,Cash on Delivery
+1523,PayPal
+1524,Credit Card
+1525,Cash on Delivery
+1526,Bank Transfer
+1527,Credit Card
+1528,PayPal
+1529,Credit Card
+1530,Bank Transfer
+1531,PayPal
+1532,Bank Transfer
+1533,Credit Card
+1534,PayPal
+1535,Cash on Delivery
+1536,Bank Transfer
+1537,Credit Card
+1538,PayPal
+1539,PayPal
+1540,Bank Transfer
+1541,PayPal
+1542,Cash on Delivery
+1543,PayPal
+1544,PayPal
+1545,Bank Transfer
+1546,PayPal
+1547,PayPal
+1548,Credit Card
+1549,PayPal
+1550,Credit Card
+1551,Cash on Delivery
+1552,Credit Card
+1553,Bank Transfer
+1554,Credit Card
+1555,PayPal
+1556,Cash on Delivery
+1557,Cash on Delivery
+1558,PayPal
+1559,PayPal
+1560,Bank Transfer
+1561,PayPal
+1562,Cash on Delivery
+1563,Bank Transfer
+1564,PayPal
+1565,PayPal
+1566,Credit Card
+1567,PayPal
+1568,Bank Transfer
+1569,Credit Card
+1570,Bank Transfer
+1571,Credit Card
+1572,Credit Card
+1573,Credit Card
+1574,Credit Card
+1575,Credit Card
+1576,Bank Transfer
+1577,Cash on Delivery
+1578,Bank Transfer
+1579,Credit Card
+1580,Cash on Delivery
+1581,Cash on Delivery
+1582,Cash on Delivery
+1583,Cash on Delivery
+1584,Credit Card
+1585,Cash on Delivery
+1586,Bank Transfer
+1587,Credit Card
+1588,Credit Card
+1589,Credit Card
+1590,PayPal
+1591,PayPal
+1592,Credit Card
+1593,Credit Card
+1594,Credit Card
+1595,PayPal
+1596,Bank Transfer
+1597,Cash on Delivery
+1598,Bank Transfer
+1599,PayPal
+1600,Bank Transfer
+1601,PayPal
+1602,Bank Transfer
+1603,Cash on Delivery
+1604,Cash on Delivery
+1605,Cash on Delivery
+1606,Cash on Delivery
+1607,Bank Transfer
+1608,Credit Card
+1609,Credit Card
+1610,PayPal
+1611,Bank Transfer
+1612,PayPal
+1613,Cash on Delivery
+1614,Bank Transfer
+1615,PayPal
+1616,PayPal
+1617,Credit Card
+1618,PayPal
+1619,Bank Transfer
+1620,Cash on Delivery
+1621,Cash on Delivery
+1622,Credit Card
+1623,Bank Transfer
+1624,PayPal
+1625,Bank Transfer
+1626,PayPal
+1627,Cash on Delivery
+1628,Bank Transfer
+1629,Credit Card
+1630,PayPal
+1631,PayPal
+1632,PayPal
+1633,PayPal
+1634,Cash on Delivery
+1635,Cash on Delivery
+1636,Cash on Delivery
+1637,PayPal
+1638,PayPal
+1639,Cash on Delivery
+1640,PayPal
+1641,Cash on Delivery
+1642,Credit Card
+1643,PayPal
+1644,Bank Transfer
+1645,Bank Transfer
+1646,Bank Transfer
+1647,PayPal
+1648,PayPal
+1649,PayPal
+1650,Credit Card
+1651,Bank Transfer
+1652,Bank Transfer
+1653,Credit Card
+1654,Cash on Delivery
+1655,PayPal
+1656,Bank Transfer
+1657,Bank Transfer
+1658,PayPal
+1659,PayPal
+1660,Credit Card
+1661,Credit Card
+1662,Cash on Delivery
+1663,Bank Transfer
+1664,Credit Card
+1665,Bank Transfer
+1666,Bank Transfer
+1667,Credit Card
+1668,Cash on Delivery
+1669,Bank Transfer
+1670,Cash on Delivery
+1671,Credit Card
+1672,Bank Transfer
+1673,Bank Transfer
+1674,PayPal
+1675,Credit Card
+1676,Bank Transfer
+1677,Bank Transfer
+1678,Bank Transfer
+1679,Cash on Delivery
+1680,Bank Transfer
+1681,PayPal
+1682,Cash on Delivery
+1683,Cash on Delivery
+1684,Cash on Delivery
+1685,PayPal
+1686,PayPal
+1687,Bank Transfer
+1688,Cash on Delivery
+1689,Bank Transfer
+1690,Cash on Delivery
+1691,Bank Transfer
+1692,Cash on Delivery
+1693,Credit Card
+1694,Bank Transfer
+1695,PayPal
+1696,Bank Transfer
+1697,Credit Card
+1698,Credit Card
+1699,PayPal
+1700,Bank Transfer
+1701,Credit Card
+1702,Cash on Delivery
+1703,PayPal
+1704,PayPal
+1705,Bank Transfer
+1706,Bank Transfer
+1707,Bank Transfer
+1708,PayPal
+1709,PayPal
+1710,Credit Card
+1711,Cash on Delivery
+1712,Cash on Delivery
+1713,Credit Card
+1714,Bank Transfer
+1715,PayPal
+1716,Credit Card
+1717,Bank Transfer
+1718,Credit Card
+1719,Bank Transfer
+1720,Cash on Delivery
+1721,Cash on Delivery
+1722,Bank Transfer
+1723,PayPal
+1724,Credit Card
+1725,Bank Transfer
+1726,Credit Card
+1727,Bank Transfer
+1728,Bank Transfer
+1729,Cash on Delivery
+1730,Bank Transfer
+1731,Bank Transfer
+1732,Credit Card
+1733,Credit Card
+1734,Credit Card
+1735,Bank Transfer
+1736,Credit Card
+1737,Credit Card
+1738,Cash on Delivery
+1739,PayPal
+1740,Cash on Delivery
+1741,Bank Transfer
+1742,PayPal
+1743,Credit Card
+1744,PayPal
+1745,Cash on Delivery
+1746,Credit Card
+1747,Cash on Delivery
+1748,PayPal
+1749,Credit Card
+1750,Cash on Delivery
+1751,PayPal
+1752,PayPal
+1753,Cash on Delivery
+1754,Credit Card
+1755,PayPal
+1756,Bank Transfer
+1757,PayPal
+1758,Cash on Delivery
+1759,Bank Transfer
+1760,Credit Card
+1761,Cash on Delivery
+1762,Cash on Delivery
+1763,Cash on Delivery
+1764,PayPal
+1765,Credit Card
+1766,Credit Card
+1767,Credit Card
+1768,PayPal
+1769,Credit Card
+1770,Credit Card
+1771,Credit Card
+1772,Credit Card
+1773,Cash on Delivery
+1774,Bank Transfer
+1775,Cash on Delivery
+1776,PayPal
+1777,Cash on Delivery
+1778,PayPal
+1779,PayPal
+1780,Credit Card
+1781,Bank Transfer
+1782,Cash on Delivery
+1783,PayPal
+1784,Credit Card
+1785,Cash on Delivery
+1786,Credit Card
+1787,PayPal
+1788,Bank Transfer
+1789,Cash on Delivery
+1790,Cash on Delivery
+1791,Bank Transfer
+1792,Bank Transfer
+1793,PayPal
+1794,Credit Card
+1795,Credit Card
+1796,Bank Transfer
+1797,Bank Transfer
+1798,Credit Card
+1799,Cash on Delivery
+1800,Bank Transfer
+1801,PayPal
+1802,Bank Transfer
+1803,Credit Card
+1804,Bank Transfer
+1805,Credit Card
+1806,Cash on Delivery
+1807,Cash on Delivery
+1808,Credit Card
+1809,Bank Transfer
+1810,Cash on Delivery
+1811,PayPal
+1812,PayPal
+1813,Cash on Delivery
+1814,PayPal
+1815,Bank Transfer
+1816,PayPal
+1817,Cash on Delivery
+1818,Credit Card
+1819,Cash on Delivery
+1820,Bank Transfer
+1821,PayPal
+1822,Credit Card
+1823,Bank Transfer
+1824,Credit Card
+1825,Credit Card
+1826,Credit Card
+1827,Bank Transfer
+1828,Credit Card
+1829,PayPal
+1830,Cash on Delivery
+1831,Credit Card
+1832,Bank Transfer
+1833,Credit Card
+1834,Cash on Delivery
+1835,Bank Transfer
+1836,PayPal
+1837,Cash on Delivery
+1838,Credit Card
+1839,Credit Card
+1840,PayPal
+1841,Bank Transfer
+1842,Credit Card
+1843,Credit Card
+1844,PayPal
+1845,Cash on Delivery
+1846,Bank Transfer
+1847,Credit Card
+1848,PayPal
+1849,Bank Transfer
+1850,Credit Card
+1851,Cash on Delivery
+1852,Credit Card
+1853,PayPal
+1854,Credit Card
+1855,Bank Transfer
+1856,PayPal
+1857,Credit Card
+1858,Cash on Delivery
+1859,PayPal
+1860,Bank Transfer
+1861,Cash on Delivery
+1862,Cash on Delivery
+1863,Credit Card
+1864,PayPal
+1865,Cash on Delivery
+1866,Bank Transfer
+1867,PayPal
+1868,PayPal
+1869,PayPal
+1870,Bank Transfer
+1871,Bank Transfer
+1872,PayPal
+1873,PayPal
+1874,Credit Card
+1875,Cash on Delivery
+1876,PayPal
+1877,Bank Transfer
+1878,Cash on Delivery
+1879,PayPal
+1880,Credit Card
+1881,Cash on Delivery
+1882,PayPal
+1883,Credit Card
+1884,Cash on Delivery
+1885,PayPal
+1886,Credit Card
+1887,PayPal
+1888,Cash on Delivery
+1889,PayPal
+1890,Credit Card
+1891,Cash on Delivery
+1892,PayPal
+1893,Bank Transfer
+1894,Cash on Delivery
+1895,Bank Transfer
+1896,Bank Transfer
+1897,Bank Transfer
+1898,PayPal
+1899,Credit Card
+1900,Cash on Delivery
+1901,Credit Card
+1902,Cash on Delivery
+1903,Cash on Delivery
+1904,Credit Card
+1905,PayPal
+1906,PayPal
+1907,Cash on Delivery
+1908,Credit Card
+1909,PayPal
+1910,Credit Card
+1911,Bank Transfer
+1912,Credit Card
+1913,Bank Transfer
+1914,Credit Card
+1915,Bank Transfer
+1916,PayPal
+1917,Bank Transfer
+1918,Cash on Delivery
+1919,Bank Transfer
+1920,PayPal
+1921,Cash on Delivery
+1922,Credit Card
+1923,Bank Transfer
+1924,Cash on Delivery
+1925,PayPal
+1926,Bank Transfer
+1927,Credit Card
+1928,Cash on Delivery
+1929,Bank Transfer
+1930,Credit Card
+1931,Cash on Delivery
+1932,PayPal
+1933,Credit Card
+1934,Bank Transfer
+1935,Bank Transfer
+1936,Cash on Delivery
+1937,Cash on Delivery
+1938,Credit Card
+1939,Credit Card
+1940,Credit Card
+1941,Cash on Delivery
+1942,Bank Transfer
+1943,Bank Transfer
+1944,Cash on Delivery
+1945,PayPal
+1946,Bank Transfer
+1947,Credit Card
+1948,Cash on Delivery
+1949,PayPal
+1950,Credit Card
+1951,Cash on Delivery
+1952,Credit Card
+1953,PayPal
+1954,Credit Card
+1955,Credit Card
+1956,Credit Card
+1957,Credit Card
+1958,PayPal
+1959,Cash on Delivery
+1960,Cash on Delivery
+1961,Credit Card
+1962,Credit Card
+1963,Credit Card
+1964,Cash on Delivery
+1965,PayPal
+1966,Credit Card
+1967,Bank Transfer
+1968,Bank Transfer
+1969,PayPal
+1970,Bank Transfer
+1971,PayPal
+1972,Credit Card
+1973,Bank Transfer
+1974,Cash on Delivery
+1975,Bank Transfer
+1976,PayPal
+1977,Bank Transfer
+1978,Credit Card
+1979,Bank Transfer
+1980,Credit Card
+1981,Cash on Delivery
+1982,Credit Card
+1983,Cash on Delivery
+1984,Credit Card
+1985,Cash on Delivery
+1986,Credit Card
+1987,Credit Card
+1988,Cash on Delivery
+1989,PayPal
+1990,PayPal
+1991,Bank Transfer
+1992,Cash on Delivery
+1993,Cash on Delivery
+1994,PayPal
+1995,Credit Card
+1996,Bank Transfer
+1997,Credit Card
+1998,Cash on Delivery
+1999,Cash on Delivery
+2000,Credit Card
